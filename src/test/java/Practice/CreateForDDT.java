@@ -123,7 +123,7 @@ public class CreateForDDT {
 		
 		 driver.close();
 		//and now end
-		
+		//it is done now
 	}
 
 }
