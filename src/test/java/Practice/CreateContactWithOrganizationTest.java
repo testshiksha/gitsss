@@ -130,7 +130,7 @@ public class CreateContactWithOrganizationTest extends BaseClass {
 			 //driver.findElement(By.linkText("Sign Out")).click();
 			
 	}
-	@Test
+	@Test(groups = "smoke")
 	public void creat()
 	{
 	
