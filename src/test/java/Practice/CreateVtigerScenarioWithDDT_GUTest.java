@@ -73,7 +73,7 @@ public class CreateVtigerScenarioWithDDT_GUTest extends BaseClass {
 			System.out.println(orgHeader);
 			
 			//step10---logout of application
-			
+			//it is finished
 		}
 
 	}
