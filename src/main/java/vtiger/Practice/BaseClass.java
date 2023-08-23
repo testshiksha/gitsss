@@ -28,7 +28,7 @@ public class BaseClass {
 	   public WebDriverFileUtility wUtil = new WebDriverFileUtility();
 	   public WebDriver driver = null;
 	   //used only for listener to take screenshot 
-	   public static WebDriver sdriver;
+	  // public static WebDriver sdriver;
 	@BeforeSuite (alwaysRun = true)
 	
 	public void BeforeSuiteConfiguration() 
@@ -61,7 +61,7 @@ public class BaseClass {
 		      wUtil.implicitlyWait(driver);
 		      
 		    //used only for listener to take screenshot 
-		      sdriver=driver;
+		     // sdriver=driver;
 		      
 		      // Step 3: Load the URL
 		      driver.get(URL);

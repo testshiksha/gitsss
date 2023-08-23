@@ -3,17 +3,17 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Practice.CreateVtigerScenarioWithDDT_GUTest">
+      <class name="Practice.CreateContactWithMultiOrgTest">
         <methods>
           <include name="BeforeSuiteConfiguration"/>
           <include name="BeforeMethodConfiguration"/>
-          <include name="AfterSuiteConfiguration"/>
           <include name="AfterClassConfiguration"/>
+          <include name="AfterSuiteConfiguration"/>
           <include name="BeforeClassConfig"/>
-          <include name="cteateVtigerScenarioTest"/>
           <include name="AfterMethodCongiguration"/>
+          <include name="createMultipleOrg"/>
         </methods>
-      </class> <!-- Practice.CreateVtigerScenarioWithDDT_GUTest -->
+      </class> <!-- Practice.CreateContactWithMultiOrgTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

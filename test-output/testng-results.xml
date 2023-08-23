@@ -11,27 +11,27 @@
       <![CDATA[creating new organization]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-08-11T18:11:54 IST" name="Suite" finished-at="2023-08-11T18:13:07 IST" duration-ms="73413">
+  <suite started-at="2023-08-23T10:29:21 IST" name="Suite" finished-at="2023-08-23T10:29:50 IST" duration-ms="29114">
     <groups>
       <group name="smoke">
-        <method signature="CreateContactWithOrganizationTest.CreateContactWithOrgTest()[pri:0, instance:Practice.CreateContactWithOrganizationTest@7f485fda]" name="CreateContactWithOrgTest" class="Practice.CreateContactWithOrganizationTest"/>
+        <method signature="CreateContactWithOrganizationTest.CreateContactWithOrgTest()[pri:0, instance:Practice.CreateContactWithOrganizationTest@3ba987b8]" name="CreateContactWithOrgTest" class="Practice.CreateContactWithOrganizationTest"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2023-08-11T18:11:54 IST" name="Test" finished-at="2023-08-11T18:13:07 IST" duration-ms="73413">
+    <test started-at="2023-08-23T10:29:21 IST" name="Test" finished-at="2023-08-23T10:29:50 IST" duration-ms="29114">
       <class name="Practice.CreateContactWithOrganizationTest">
-        <test-method is-config="true" signature="BeforeSuiteConfiguration()[pri:0, instance:Practice.CreateContactWithOrganizationTest@7f485fda]" started-at="2023-08-11T18:11:54 IST" name="BeforeSuiteConfiguration" finished-at="2023-08-11T18:11:54 IST" duration-ms="17" status="PASS">
+        <test-method is-config="true" signature="BeforeSuiteConfiguration()[pri:0, instance:Practice.CreateContactWithOrganizationTest@3ba987b8]" started-at="2023-08-23T10:29:21 IST" name="BeforeSuiteConfiguration" finished-at="2023-08-23T10:29:21 IST" duration-ms="16" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeSuiteConfiguration -->
-        <test-method is-config="true" signature="BeforeClassConfig()[pri:0, instance:Practice.CreateContactWithOrganizationTest@7f485fda]" started-at="2023-08-11T18:11:54 IST" name="BeforeClassConfig" finished-at="2023-08-11T18:12:08 IST" duration-ms="14150" status="PASS">
+        <test-method is-config="true" signature="BeforeClassConfig()[pri:0, instance:Practice.CreateContactWithOrganizationTest@3ba987b8]" started-at="2023-08-23T10:29:22 IST" name="BeforeClassConfig" finished-at="2023-08-23T10:29:27 IST" duration-ms="5557" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeClassConfig -->
-        <test-method is-config="true" signature="BeforeMethodConfiguration()[pri:0, instance:Practice.CreateContactWithOrganizationTest@7f485fda]" started-at="2023-08-11T18:12:08 IST" name="BeforeMethodConfiguration" finished-at="2023-08-11T18:12:16 IST" duration-ms="7707" status="PASS">
+        <test-method is-config="true" signature="BeforeMethodConfiguration()[pri:0, instance:Practice.CreateContactWithOrganizationTest@3ba987b8]" started-at="2023-08-23T10:29:27 IST" name="BeforeMethodConfiguration" finished-at="2023-08-23T10:29:29 IST" duration-ms="2158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethodConfiguration -->
-        <test-method signature="CreateContactWithOrgTest()[pri:0, instance:Practice.CreateContactWithOrganizationTest@7f485fda]" started-at="2023-08-11T18:12:16 IST" name="CreateContactWithOrgTest" finished-at="2023-08-11T18:13:03 IST" duration-ms="47057" status="PASS">
+        <test-method signature="CreateContactWithOrgTest()[pri:0, instance:Practice.CreateContactWithOrganizationTest@3ba987b8]" started-at="2023-08-23T10:29:29 IST" name="CreateContactWithOrgTest" finished-at="2023-08-23T10:29:48 IST" duration-ms="18622" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[click org button]]>
@@ -44,15 +44,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- CreateContactWithOrgTest -->
-        <test-method is-config="true" signature="AfterMethodCongiguration()[pri:0, instance:Practice.CreateContactWithOrganizationTest@7f485fda]" started-at="2023-08-11T18:13:03 IST" name="AfterMethodCongiguration" finished-at="2023-08-11T18:13:07 IST" duration-ms="3694" status="PASS">
+        <test-method is-config="true" signature="AfterMethodCongiguration()[pri:0, instance:Practice.CreateContactWithOrganizationTest@3ba987b8]" started-at="2023-08-23T10:29:48 IST" name="AfterMethodCongiguration" finished-at="2023-08-23T10:29:50 IST" duration-ms="2120" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethodCongiguration -->
-        <test-method is-config="true" signature="AfterClassConfiguration()[pri:0, instance:Practice.CreateContactWithOrganizationTest@7f485fda]" started-at="2023-08-11T18:13:07 IST" name="AfterClassConfiguration" finished-at="2023-08-11T18:13:07 IST" duration-ms="217" status="PASS">
+        <test-method is-config="true" signature="AfterClassConfiguration()[pri:0, instance:Practice.CreateContactWithOrganizationTest@3ba987b8]" started-at="2023-08-23T10:29:50 IST" name="AfterClassConfiguration" finished-at="2023-08-23T10:29:50 IST" duration-ms="159" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterClassConfiguration -->
-        <test-method is-config="true" signature="AfterSuiteConfiguration()[pri:0, instance:Practice.CreateContactWithOrganizationTest@7f485fda]" started-at="2023-08-11T18:13:08 IST" name="AfterSuiteConfiguration" finished-at="2023-08-11T18:13:08 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="AfterSuiteConfiguration()[pri:0, instance:Practice.CreateContactWithOrganizationTest@3ba987b8]" started-at="2023-08-23T10:29:51 IST" name="AfterSuiteConfiguration" finished-at="2023-08-23T10:29:51 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterSuiteConfiguration -->

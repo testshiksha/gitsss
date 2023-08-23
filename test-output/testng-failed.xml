@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" parallel="tests" name="Test Runner 2(failed)">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Practice.CreateVtigerScenarioWithDDT_GUTest">
-        <methods>
-          <include name="BeforeSuiteConfiguration"/>
-          <include name="BeforeMethodConfiguration"/>
-          <include name="AfterSuiteConfiguration"/>
-          <include name="AfterClassConfiguration"/>
-          <include name="BeforeClassConfig"/>
-          <include name="cteateVtigerScenarioTest"/>
-          <include name="AfterMethodCongiguration"/>
-        </methods>
-      </class> <!-- Practice.CreateVtigerScenarioWithDDT_GUTest -->
-    </classes>
-  </test> <!-- Test Runner 2(failed) -->
-  <test thread-count="5" parallel="tests" name="Test Runner 1(failed)">
-    <classes>
-      <class name="Practice.CreateVtigerScenarioWithDDT_GUTest">
+      <class name="Practice.CreateContactWithMultiOrgTest">
         <methods>
           <include name="BeforeSuiteConfiguration"/>
           <include name="BeforeMethodConfiguration"/>
@@ -26,9 +11,9 @@
           <include name="AfterSuiteConfiguration"/>
           <include name="BeforeClassConfig"/>
           <include name="AfterMethodCongiguration"/>
-          <include name="cteateVtigerScenarioTest"/>
+          <include name="createMultipleOrg"/>
         </methods>
-      </class> <!-- Practice.CreateVtigerScenarioWithDDT_GUTest -->
+      </class> <!-- Practice.CreateContactWithMultiOrgTest -->
     </classes>
-  </test> <!-- Test Runner 1(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
